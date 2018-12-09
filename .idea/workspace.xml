@@ -48,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/budget/tests/tests_urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -96,7 +96,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="217" />
     <option name="y" value="100" />
     <option name="width" value="1346" />
@@ -120,12 +120,6 @@
               <item name="budgetproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="budgetproject" type="462c0819:PsiDirectoryNode" />
               <item name="budget" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="budgetproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="budgetproject" type="462c0819:PsiDirectoryNode" />
-              <item name="budget" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -189,16 +183,15 @@
       <option name="presentableId" value="Default" />
       <updated>1544292801945</updated>
       <workItem from="1544292803576" duration="1952000" />
-      <workItem from="1544301220762" duration="3900000" />
+      <workItem from="1544301220762" duration="4216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5852000" />
+    <option name="totallyTimeSpent" value="6168000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -326,8 +319,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/budget/tests/tests_urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>

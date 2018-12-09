@@ -14,5 +14,5 @@ class TestUrls(SimpleTestCase):
         self.assertEquals(resolve(url).func.view_class, ProjectCreateView)
 
     def test_detail_url_resolves(self):
-        url = reverse('detail')
+        url = reverse('detail', args=['some-slug'])
         self.assertEquals(resolve(url).func, project_detail)
